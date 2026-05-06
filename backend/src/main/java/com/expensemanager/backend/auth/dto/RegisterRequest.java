@@ -12,4 +12,4 @@ public class RegisterRequest {
 }
 
 
-// DTO => full form : District Transport Office
+// DTO => full form : Data Transfer Object (DTO) is a design pattern used to transfer data between software application subsystems.

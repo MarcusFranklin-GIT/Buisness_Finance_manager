@@ -7,7 +7,7 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 import com.expensemanager.backend.auth.model.Dealer;
 
 public interface DealerRepository extends MongoRepository<Dealer , String>{
-    Optional<Dealer> findByPhine(String phone);
+    Optional<Dealer> findByPhone(String phone);
 }
 
 // The DealerRepository interface extends MongoRepository, providing CRUD operations for the Dealer entity. 
