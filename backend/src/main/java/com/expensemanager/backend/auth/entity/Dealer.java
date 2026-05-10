@@ -1,4 +1,4 @@
-package com.expensemanager.backend.auth.model;
+package com.expensemanager.backend.auth.entity;
 
 import java.util.Date;
 
